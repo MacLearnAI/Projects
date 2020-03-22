@@ -6,3 +6,4 @@
 (6)Pfizer
 (8)Ola
 (9)CocaCola
+(10)TATA
