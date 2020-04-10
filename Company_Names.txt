@@ -1,9 +1,0 @@
-(1)MacLearnAI
-(2)Google
-(3)Facebook
-(4)Uber
-(5)Paytm
-(6)Pfizer
-(8)Ola
-(9)CocaCola
-(10)TATA
